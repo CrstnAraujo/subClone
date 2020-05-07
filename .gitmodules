@@ -1,0 +1,3 @@
+[submodule "modulo"]
+	path = modulo
+	url = git@github.com:CrstnAraujo/modulo.git
